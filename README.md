@@ -8,11 +8,17 @@
 
 ### 1. Course Orientation
 ### 2. An Instroduction to Web Development
-### 3. HTML: The Essentials
-### 4. HTML: Next Steps & Semantics
-### 5. HTML: Forms & Tables
-### 6. CSS: The Very Basics
-### 7. The World of CSS Selectors
+
+### <a title="3. HTML: The Essentials" href="https://github.com/TsvetanNikolov123/Udemy---The-Web-Developer-Bootcamp/tree/main/03%20HTML%20The%20Essentials">3. HTML: The Essentials</a>
+
+### <a title="4. HTML: Next Steps & Semantics" href="https://github.com/TsvetanNikolov123/Udemy---The-Web-Developer-Bootcamp/tree/main/04%20HTML%20Next%20Steps%20%26%20Semantics">4. HTML: Next Steps & Semantics</a>
+
+### <a title="5. HTML: Forms & Tables" href="https://github.com/TsvetanNikolov123/Udemy---The-Web-Developer-Bootcamp/tree/main/05%20HTML%20Forms%20%26%20Tables">5. HTML: Forms & Tables</a>
+
+### <a title="6. CSS: The Very Basics" href="https://github.com/TsvetanNikolov123/Udemy---The-Web-Developer-Bootcamp/tree/main/06%20CSS%20The%20Very%20Basics">6. CSS: The Very Basics</a>
+
+### <a title="7. The World of CSS Selectors" href="https://github.com/TsvetanNikolov123/Udemy---The-Web-Developer-Bootcamp/tree/main/07%20The%20World%20of%20CSS%20Selectors">7. The World of CSS Selectors</a>
+
 ### 8. The CSS Box Model
 ### 9. Other Assorted Useful CSS Properties
 ### 10. Responsive CSS & Flexbox
